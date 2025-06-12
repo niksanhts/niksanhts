@@ -4,9 +4,11 @@ I am a student at Moscow Polytechnic University, specializing in Information Sys
 
 # Skills
 
-* **Languages:** Java, C#
-* **Frameworks & Technologies:** Spring, Unity Engine
-* **Tools:** IntelliJ IDEA, VSCode
+* **Languages:** Java, C#, JavaScript, Python, SQL
+* **Frameworks & Technologies:** Spring, FastAPI, JPA/Hibernate, REST API, Unity Engine, React, Bootstrap
+* **Databases:** PostgreSQL, SQLite
+* **Tools:** IntelliJ IDEA, VSCode, Git, Postman, Docker (basic), Maven, Gradle
+* **Concepts:** OOP, SOLID, Clean Architecture, MVC, Dependency Injection, Multithreading, Unit Testing (JUnit, Mockito, Pytest)
 
 # Contact
 
